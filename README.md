@@ -15,7 +15,7 @@ Repository ini berisi dua workflow ETL yang diimplementasikan menggunakan **Apac
 
 ## **Link**
 - **Blog Post**: [Notion](https://puffy-midnight-8bd.notion.site/Membangun-Dashboard-Berita-dan-Nilai-Stock-Market-dengan-ETL-Workflow-1441e9bd665a80bbb346e0fe1fc1bbb7?pvs=4)
-- **Video Presentasi**: [Youtube](#)
+- **Video Presentasi**: [Youtube](https://www.youtube.com/watch?v=gZHMdOYrx_o)
 
 ## **Reference API**
 - [MarketAux](https://www.marketaux.com/)
