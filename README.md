@@ -47,7 +47,7 @@ Repository ini berisi dua workflow ETL yang diimplementasikan menggunakan **Apac
 ---
 
 ## **Arsitektur Teknologi**
-![Arsitektur Workflow ETL](https://github.com/saaip7/marketaux_yfinance_etl_airflow/blob/main/architec.jpeg)
+![Arsitektur Workflow ETL](https://github.com/saaip7/marketaux_yfinance_etl_airflow/blob/main/architecnew.jpeg)
 
 - **Apache Airflow**: Mengorkestrasi proses ETL untuk kedua workflow.
 - **Azure VM**: Menyediakan lingkungan eksekusi untuk Airflow.
