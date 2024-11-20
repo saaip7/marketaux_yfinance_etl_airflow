@@ -5,6 +5,12 @@ Repository ini berisi dua workflow ETL yang diimplementasikan menggunakan **Apac
 > [!NOTE]
 > API dan kredensial lainnya dalam source code ini telah disembunyikan untuk menjaga privasi dan keamanan.  
 > Silakan gunakan kredensial Anda sendiri jika ingin menjalankan project ini.
+
+## Kelompok W
+- Anggota 1: Muhammad Fajrulfalaq Izzulfirdausyah Suryaprabandaru - 22/494174/TK/54184
+- Anggota 2: Reihan Athar Zildaniar - 22/497191/TK/54482
+- Anggota 3: Syaifullah Hilmi Ma'arij - 22/497775/TK/54568
+
 ---
 
 ## **Link**
