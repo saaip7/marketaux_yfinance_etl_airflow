@@ -2,11 +2,18 @@
 
 Repository ini berisi dua workflow ETL yang diimplementasikan menggunakan **Apache Airflow** dan dijalankan pada **Virtual Machine (VM) Azure**. Workflow ini mengotomatisasi proses ekstraksi, transformasi, dan pemuatan (ETL) data dari dua sumber: **MarketAux API** dan **Yahoo Finance**. Data yang telah diproses akan disimpan secara lokal dan diunggah ke bucket **S3**.
 
+> [!NOTE]
+> API dan kredensial lainnya dalam source code ini telah disembunyikan untuk menjaga privasi dan keamanan.  
+> Silakan gunakan kredensial Anda sendiri jika ingin menjalankan project ini.
 ---
 
 ## **Link**
 - **Blog Post**: [Notion](#)
 - **Video Presentasi**: [Youtube](#)
+
+## **Reference API**
+- [MarketAux](https://www.marketaux.com/)
+- [Yahoo Finance](https://pypi.org/project/yfinance/)
 
 ---
 
@@ -43,7 +50,7 @@ Repository ini berisi dua workflow ETL yang diimplementasikan menggunakan **Apac
   - **Yahoo Finance**: Menyediakan data pasar saham secara real-time.
 - **S3 Bucket**: Menyimpan data yang telah diproses dengan struktur folder terorganisasi.
 - **Red Shift**: Menyimpan data realtime dari S3 Bucket ke dalam database table.
-- ** Power BI**: Melakukan visualisasi data dari Red Shift.
+- **Power BI**: Melakukan visualisasi data dari Red Shift.
 
 
 ### **Memulai Airflow**
